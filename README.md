@@ -1,2 +1,2 @@
 # caresharing
-Answers to questionaire
+Answers to questionnaire
